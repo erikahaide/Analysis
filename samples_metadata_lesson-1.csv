@@ -1,0 +1,20 @@
+Current variable names,ENA variable names,Measurenment unit,Allow values,Definition,Description
+sample id,,,,Sample  ID ,name of the sample
+patient id (host subject id),,,,Patient ID ,patient identifier information
+sex (host sex),,,F,,gender of the patient
+date (collection date),,,,,Date when sample was collected
+location (geographic location (country and/or sea),,,,,Place where the sample was collected
+age (host age),,,,,Age of the patient when the sample was collected
+health state,,,,,Health status of the patient when the sample was collected
+symptoms,,,dead or healthy or empty,,Symptoms taht the patient showed when the sample was collected
+disease outcome (host disease outcome),,,,,Diseases outcome of the patient when the sample was collected
+tissue (isolation source host-associated),,,"lung, nasopharynx,
+laryngopharynx",,origin of the sample 
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+sore thoat (NCIT_C50747),,,,,
+fever,NCIT_C3038,,,,
+fatigue,NBO_0000569,,,,
